@@ -25,7 +25,9 @@ users_login data structure:
 
 I had created 7 modules for this project:
   *index.html*        ->main index as well as login page
+  
   *registration.html* ->new registration
+  
   *dbmanager.php*     ->new users db management
   
 
